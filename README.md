@@ -30,7 +30,7 @@
 
 | Project | What It Shows | Stack |
 | --- | --- | --- |
-| [TSG_UI_API](https://github.com/Santhu-1912/TSG_UI_API) | AI-powered test script generator for capturing flows, generating locators, building automation assets, and executing Playwright tests. | Python, FastAPI, React, TypeScript, Playwright |
+| [GenAI-Test-Automation-Studio](https://github.com/Santhu-1912/GenAI-Test-Automation-Studio) | AI-powered test script generator for capturing UI/API flows, generating locators, building automation assets, and executing Playwright tests. | Python, FastAPI, React, TypeScript, Playwright |
 | [AITestDataGenerator](https://github.com/Santhu-1912/AITestDataGenerator) | Synthetic test data generator with staged business rules, Streamlit dashboards, FastAPI endpoints, and feedback-based refinement. | Python, Streamlit, FastAPI, Pandas, LangChain |
 | API Automation Framework | API test generation with gateway-aware flows, request data handling, and executable test artifacts. | Python, TypeScript, Playwright |
 | RTM Generator | Requirement traceability matrix generation from recorded flows with Excel/CSV export. | FastAPI, OpenPyXL, React |
@@ -78,4 +78,4 @@ GenAI for QA Engineering
 
 - Comfortable across backend APIs, frontend dashboards, automation frameworks, and LLM-assisted developer tooling.
 - Strong interest in GenAI platforms, QA engineering acceleration, Playwright automation, and enterprise workflow modernization.
-- Best project to review first: [TSG_UI_API](https://github.com/Santhu-1912/TSG_UI_API).
+- Best project to review first: [GenAI-Test-Automation-Studio](https://github.com/Santhu-1912/GenAI-Test-Automation-Studio).
