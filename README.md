@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/santhosh-profile.jpeg" width="132" alt="Santhosh profile photo" style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Hi, I'm Santhosh</h1>
 
