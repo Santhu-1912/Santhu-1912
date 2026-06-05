@@ -33,6 +33,7 @@
 | Project | What It Shows | Stack |
 | --- | --- | --- |
 | [TSG_UI_API](https://github.com/Santhu-1912/TSG_UI_API) | AI-powered test script generator for capturing flows, generating locators, building automation assets, and executing Playwright tests. | Python, FastAPI, React, TypeScript, Playwright |
+| [AITestDataGenerator](https://github.com/Santhu-1912/AITestDataGenerator) | Synthetic test data generator with staged business rules, Streamlit dashboards, FastAPI endpoints, and feedback-based refinement. | Python, Streamlit, FastAPI, Pandas, LangChain |
 | API Automation Framework | API test generation with gateway-aware flows, request data handling, and executable test artifacts. | Python, TypeScript, Playwright |
 | RTM Generator | Requirement traceability matrix generation from recorded flows with Excel/CSV export. | FastAPI, OpenPyXL, React |
 
